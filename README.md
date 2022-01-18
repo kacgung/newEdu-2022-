@@ -10,10 +10,10 @@
 ### OpenLayers 기초
 
 
-## OpenLayers 웹 GIS 실습
+### OpenLayers 웹 GIS 실습
 
 
-## 공간 데이터 배포 (GeoServer)
+### 공간 데이터 배포 (GeoServer)
 
 
-## WebGIS 테스트 환경 구성
+### WebGIS 테스트 환경 구성
