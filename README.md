@@ -19,7 +19,7 @@
 OpenLayers를 활용하여 Node.js 기반의 WebGIS 서비스 구현한다.
 
 - Node.js (https://nodejs.org) 및 모듈 설치
-- OpenLayers QuickStart.html 실습 (__Node.js vs. Apach httpd__)
+- OpenLayers `QuickStart.html` 실습 (__Node.js vs. Apach httpd__)
 
 <br/>
 Node.js 설치 후, 확인한다.
@@ -41,7 +41,6 @@ Work(프로젝트) 작업 폴더를 생성한다.
     C:\Day_3\ol\work>
 
 <br/>
-
 프로젝트를 초기화한다.
 
     C:\Day_3\ol\work>npm init -y
@@ -56,7 +55,8 @@ Work(프로젝트) 작업 폴더를 생성한다.
 
 <br/>
 
-웹 페이지 `index.html` 을 작성한다. 
+웹 페이지 `index.html` 을 작성한다.
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -111,7 +111,6 @@ const map = new Map({
 ```
 
 <br/>
-
 프로젝트를 시작한다.
 
     C:\Day_3\ol\work>npm start
