@@ -41,11 +41,13 @@ Work(프로젝트) 작업 폴더를 생성한다.
     C:\Day_3\ol\work>
 
 <br/>
+
 프로젝트를 초기화한다.
 
     C:\Day_3\ol\work>npm init -y
 
 <br/>
+
 필요한 모듈을 설치한다. `Openlayers, Parcel`
 
     C:\Day_3\ol\work>npm install ol
