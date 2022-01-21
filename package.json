@@ -1,0 +1,24 @@
+{
+  "name": "newedu2022",
+  "version": "1.0.0",
+  "description": "<br/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build --public-url . index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kacgung/newEdu2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kacgung/newEdu2022/issues"
+  },
+  "homepage": "https://github.com/kacgung/newEdu2022#readme",
+  "dependencies": {
+    "ol": "^6.12.0"
+  }
+}
